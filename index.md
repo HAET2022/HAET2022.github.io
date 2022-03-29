@@ -1,19 +1,37 @@
-## Overview
+## Welcome to GitHub Pages
 
-The workshop will take place on Friday May 7, 2021. Due to the pandemic, the workshop will be <span style="color:red;">**VIRTUAL**</span>. More details will be provided soon.
+You can use the [editor on GitHub](https://github.com/HAET2021/HAET2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Note that to attend the event, a registration on the ICLR [website](https://iclr.cc/) is required. All workshop events (except Poster session and open discussion) can be followed using the ICLR [link](https://iclr.cc/virtual/2021/workshop/2136) or use the zoom link by clicking on "join zoom" on the ICLR [link](https://iclr.cc/virtual/2021/workshop/2136). For the Poster session participants should une the Gather.town [link](https://eventhosts.gather.town/app/8GTU1Np5og1tJ0ab/Poster%20Session). Note that papers id can be found on Accepter papers section and the workshop replay can be fond on the ICLR [link](https://iclr.cc/virtual/2021/workshop/2136).
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Markdown
 
-## Aim of the Workshop
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-To reach top-tier performance, deep learning architectures usually rely on a large number of parameters and operations, and thus require to be processed using considerable power and memory. Numerous works have proposed to tackle this problem using quantization of parameters, pruning, clustering of parameters, decompositions of convolutions or using distillation. However, most of these works aim at accelerating **only** the inference process and disregard the training phase. In practice, however, it is the learning phase that is by far the most complex. There has been recent efforts in introducing some compression on training process, however it remains challenging.
+```markdown
+Syntax highlighted code block
 
-**In this workshop, we propose to focus on reducing the complexity of the training process. Our aim is to gather researchers interested in reducing energy, time, or memory usage for faster/cheaper/greener prototyping or deployment of deep learning models.** Due to the dependence of deep learning on large computational capacities, the outcomes of the workshop could benefit all who deploy these solutions, including those who are not hardware specialists. Moreover, it would contribute to making deep learning more accessible to small businesses and small laboratories.
+# Header 1
+## Header 2
+### Header 3
 
-Indeed, training complexity is of interest to many distinct communities. A first example is training on edge devices, where training can be used to specialize to data obtained online when the data cannot be transmitted back to the cloud because of constraints on privacy or communication bandwidth. Another example is accelerating training on dedicated hardware such as GPUs or TPUs.
+- Bulleted
+- List
 
+1. Numbered
+2. List
 
-## Our Sponsors
+**Bold** and _Italic_ and `Code` text
 
-|<img src="/logo_pictures/huawei.png" alt="" width="170"/>||<img src="/logo_pictures/deeplite-01.png" alt="" width="280"/>||<img src="/logo_pictures/intel.png" alt="" width="225"/>||<img src="/logo_pictures/nvidia.png" alt="" width="220"/>|
+[Link](url) and ![Image](src)
+```
+
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HAET2021/HAET2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

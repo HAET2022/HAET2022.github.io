@@ -7,8 +7,3 @@ navigation:
   Home: "/"
   Call for Papers: "/cfp"
  
-markdown: kramdown
-
-kramdown:
-  parse_span_html: true
-  parse_block_html: true

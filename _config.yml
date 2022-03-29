@@ -1,3 +1,4 @@
+
 theme: jekyll-theme-cayman
 title: Hardware Aware Efficient Training
 description: Workshop at ICLR 2021
@@ -5,11 +6,16 @@ description: Workshop at ICLR 2021
 navigation:
   Home: "/"
   Call for Papers: "/cfp"
-
+  Challenge: "/challenge"
+  Organisers: "/organisers"
+  Keynotes: "/speakers"
+  Schedule: "/schedule"
+  Accepted Papers: "/papers"
  
 markdown: kramdown
 
 kramdown:
   parse_span_html: true
   parse_block_html: true
+
 

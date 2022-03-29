@@ -1,3 +1,13 @@
 theme: jekyll-theme-slate
 title: Hardware Aware Efficient Training
 description: Workshop at ICML 2022
+
+
+navigation:
+  Home: "/"
+ 
+markdown: kramdown
+
+kramdown:
+  parse_span_html: true
+  parse_block_html: true

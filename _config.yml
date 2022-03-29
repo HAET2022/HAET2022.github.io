@@ -4,7 +4,7 @@ description: Workshop at ICML 2022
 
 
 navigation:
-  Home: "/index"
+  Home: "/"
   Call for Papers: "/cfp"
  
  markdown: kramdown

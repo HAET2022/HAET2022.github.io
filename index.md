@@ -1,8 +1,6 @@
-## test
+## Aim of the Workshop
 
-You can use the [editor on GitHub](https://github.com/HAET2021/HAET2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To reach top-tier performance, deep learning models usually require a large number of parameters and operations, and thus use considerable power and memory. Several works have proposed to tackle this problem using quantization of parameters, pruning, clustering of parameters, decompositions of convolutions or using distillation. However, most of these works aim at accelerating \textbf{only} the inference process and disregard the training phase. In practice, however, it is the learning phase that is by far the most complex. There has been recent efforts in introducing some compression on training process, however it remains challenging.
 
 ### Markdown
 

@@ -52,12 +52,15 @@ background-color: #111;
               <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
             </section>
           {% endif %}
-          <span>
-
+         
+           <ul>
           {% for item in site.navigation %}
+               <li>
             <a href="{{ item[1] }}" style="margin:10%; font-size:160%;" class="btn" >{{ item[0] }}</a>
+                 </li>
                 {% endfor %}
-          </span>
+               </ul>
+         
         </header>
     </div>
 

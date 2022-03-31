@@ -31,9 +31,12 @@
               <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
             </section>
           {% endif %}
+          <span>
+
           {% for item in site.navigation %}
-            <a href="{{ item[1] }}" style="margin:10%; font-size:160%; display: inline-block; " class="btn" >{{ item[0] }}</a>
-          {% endfor %}
+            <a href="{{ item[1] }}" style="margin:10%; font-size:160%;" class="btn" >{{ item[0] }}</a>
+                {% endfor %}
+          </span>
         </header>
     </div>
 

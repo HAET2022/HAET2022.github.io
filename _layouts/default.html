@@ -23,7 +23,9 @@ overflow: hidden;
 display: inline-block;
 }li a {
 text-align: center;
-
+}
+.hov :hover {
+background-color: #111;
 }
 </style>
   </head>
@@ -50,7 +52,7 @@ text-align: center;
               <ul>
               {% for item in site.navigation %}
                 <li>
-                   <a href="{{ item[1] }}" style=" font-size:2.5em; color: white; text-decoration: none; padding: 14px 16px;" onmouseover="this.style.color='orange' class="btn>{{ item[0] }}</a>
+                   <a href="{{ item[1] }}" style=" font-size:2.5em; color: white; text-decoration: none; padding: 14px 16px;" class="btn hov" >{{ item[0] }}</a>
                 </li>
                {% endfor %}
               </ul> 

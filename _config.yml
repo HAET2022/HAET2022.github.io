@@ -5,6 +5,10 @@ description: Workshop at ICML 2022 test
 navigation:
   Home: "/"
   Call for Papers: "/cfp"
+  Challenge: "/challenge"
+  Organisers: "/organisers"
+  Keynotes: "/speakers"
+  Schedule: "/schedule"
   
 markdown: kramdown
 

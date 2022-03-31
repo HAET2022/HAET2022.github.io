@@ -9,14 +9,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 {% seo %}
     {% include head-custom.html %}
-    <style>
- a {text-align:center}
-</style>
-    
-    <style>
- a {margin:10%;
-font-size:160%;}
-</style>
+
     
   </head>
 
@@ -39,8 +32,8 @@ font-size:160%;}
             </section>
           {% endif %}
           {% for item in site.navigation %}
-      <a href="{{ item[1] }}" style="margin:100px, font-size:1600%;">{{ item[0] }}</a>
-      {% endfor %}
+              <a href="{{ item[1] }}" style="color:red;" class="btn" >{{ item[0] }}</a>
+          {% endfor %}
         </header>
     </div>
 

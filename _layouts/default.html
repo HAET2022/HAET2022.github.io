@@ -30,10 +30,6 @@ text-decoration: none;
 background-color: #111;
 }
 </style>
-
-
-    
-    
   </head>
 
   <body>
@@ -55,14 +51,13 @@ background-color: #111;
             </section>
           {% endif %}
          
-           
+           <ul>
           {% for item in site.navigation %}
-        
-         <span>
-            <a href="{{ item[1] }}" style="margin:10%; font-size:160%;" class="btn" >{{ item[0] }}</a>
-          </span>
+         <li>
+            <a href="{{ item[1] }}" style="margin:10%; font-size:160%;" >{{ item[0] }}</a>
+          </li>
                 {% endfor %}
-               
+              </ul> 
          
         </header>
     </div>

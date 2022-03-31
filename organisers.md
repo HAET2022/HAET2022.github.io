@@ -2,7 +2,7 @@
 
 <img src="/orginisers_pictures/UserImage.jpg" alt="Ghouthi Boukli Hacene" width="190"/><img src="/orginisers_pictures/Yoshua_bengio.jpeg" alt="Yoshua Bengio" width="280"/><img src="/orginisers_pictures/andreas.jpg" alt="Gonçalo Mordido" width="225"/>
 
-[Ghouthi Boukli Hacene](https://mila.quebec/personne/ghouthi-boukli-hacene/)<br />MILA Monteal[Yoshua Bengio](https://yoshuabengio.org/)<br />MILA Montreal[Gonçalo Mordido]()<br />Polytechnique Montreal
+[Ghouthi Boukli Hacene](https://mila.quebec/personne/ghouthi-boukli-hacene/) MILA Monteal[Yoshua Bengio](https://yoshuabengio.org/)<br />MILA Montreal[Gonçalo Mordido]()<br />Polytechnique Montreal
 
 
 

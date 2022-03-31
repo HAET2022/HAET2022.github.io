@@ -24,9 +24,6 @@ display: inline-block;
 }li a {
 text-align: center;
 padding: 14px 16px;
-text-decoration: none;
-}li a:hover {
-background-color: #111;
 }
 </style>
   </head>
@@ -53,7 +50,7 @@ background-color: #111;
               <ul>
               {% for item in site.navigation %}
                 <li>
-                   <a href="{{ item[1] }}" style=" font-size:2.5em; color: white;" >{{ item[0] }}</a>
+                   <a href="{{ item[1] }}" style=" {font-size:2.5em; color: white; text-decoration: none;} :hover {background: #111}" >{{ item[0] }}</a>
                 </li>
                {% endfor %}
               </ul> 

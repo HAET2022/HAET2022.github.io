@@ -55,13 +55,14 @@ background-color: #111;
             </section>
           {% endif %}
          
-           <ul>
+           
           {% for item in site.navigation %}
-               <li>
+        
+         <span>
             <a href="{{ item[1] }}" style="margin:10%; font-size:160%;" class="btn" >{{ item[0] }}</a>
-                 </li>
+          </span>
                 {% endfor %}
-               </ul>
+               
          
         </header>
     </div>

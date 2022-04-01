@@ -7,7 +7,7 @@
     <p>[Ghouthi Boukli Hacene](https://mila.quebec/personne/ghouthi-boukli-hacene/)</p>
   </div>
   <div class="column">
-   <img src="/orginisers_pictures/Yoshua_bengio.jpeg" alt="Yoshua Bengio" object-fit:contain; width =50%;/>
+   <img src="/orginisers_pictures/Yoshua_bengio.jpeg" alt="Yoshua Bengio" width="280"/>
     <p>MILA Monteal[Yoshua Bengio](https://yoshuabengio.org/)</p>
   </div>
   <div class="column">

@@ -6,6 +6,7 @@ navigation:
   Home: "/"
   Call for Papers: "/cfp"
   Organisers: "/organisers"
+  Schedule: "/schedule"
   
   
 markdown: kramdown

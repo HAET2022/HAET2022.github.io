@@ -24,10 +24,14 @@
       }li a {
         text-align: center;
       }
+   * {
+      box-sizing: border-box;
+    }
      .column {
       float: left;
       width: 33.33%;
       padding: 10px;
+      height : 50px
     }
     .row:after {
       content: "";
@@ -35,8 +39,10 @@
       clear: both;
     }
   .imgorg {
-     object-fit: contain ;
-     width: 25%;
+     margin-top: 12px;
+    object-fit: cover;
+    width : 200px;
+    height: 200px;
   
     }
 </style>

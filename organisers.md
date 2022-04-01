@@ -3,16 +3,16 @@
 
 <div class="row">
   <div class="column">
-    <img src="/orginisers_pictures/UserImage.jpg" alt="Ghouthi Boukli Hacene" width="280"/>
-    <p>[Ghouthi Boukli Hacene](https://mila.quebec/personne/ghouthi-boukli-hacene/)</p>
+   <img src="/orginisers_pictures/Yoshua_bengio.jpeg" alt="Yoshua Bengio" width="280"/>
+    MILA Monteal[Yoshua Bengio](https://yoshuabengio.org/)
   </div>
   <div class="column">
    <img src="/orginisers_pictures/Yoshua_bengio.jpeg" alt="Yoshua Bengio" width="280"/>
     MILA Monteal[Yoshua Bengio](https://yoshuabengio.org/)
   </div>
   <div class="column">
-    <img src="/orginisers_pictures/goncalo.jpeg" alt="Gonçalo Mordido" width="280"/>
-     MILA Montreal[Gonçalo Mordido]() Polytechnique Montreal
+   <img src="/orginisers_pictures/Yoshua_bengio.jpeg" alt="Yoshua Bengio" width="280"/>
+    MILA Monteal[Yoshua Bengio](https://yoshuabengio.org/)
   </div>
 </div>
 

@@ -3,8 +3,8 @@
 
 <div class="row">
   <div class="column">
-   <img src="/orginisers_pictures/Yoshua_bengio.jpeg" alt="Yoshua Bengio" width="280"/>
-    MILA Monteal[Yoshua Bengio](https://yoshuabengio.org/)
+   <img src="/orginisers_pictures/UserImage.jpg" alt="Ghouthi Boukli Hacene" width="280"/>
+    [Ghouthi Boukli Hacene](https://mila.quebec/personne/ghouthi-boukli-hacene/)
   </div>
   <div class="column">
    <img src="/orginisers_pictures/Yoshua_bengio.jpeg" alt="Yoshua Bengio" width="280"/>

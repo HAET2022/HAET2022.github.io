@@ -3,7 +3,7 @@
 
 <div class="row">
   <div class="column">
-   <img class="imgorg" src="/orginisers_pictures/UserImage.jpg" alt="Ghouthi Boukli Hacene"/>
+   <img src="/orginisers_pictures/UserImage.jpg" alt="Ghouthi Boukli Hacene"/>
     [Ghouthi Boukli Hacene](https://mila.quebec/personne/ghouthi-boukli-hacene/)
   </div>
   <div class="column">

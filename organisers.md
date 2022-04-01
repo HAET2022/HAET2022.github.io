@@ -12,7 +12,7 @@
   </div>
   <div class="column">
     <img src="/orginisers_pictures/goncalo.jpeg" alt="Gonçalo Mordido" width="280"/>
-    <p>Some text..</p>
+    <p>Some text.kkkkk.</p>
   </div>
 </div>
 

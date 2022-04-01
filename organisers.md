@@ -12,5 +12,5 @@
 
 
 
-|<img src="/orginisers_pictures/vincent gripon.png" alt="vincent gripon" width="225"/>|
+|<img src="/orginisers_pictures/VG.png" alt="vincent gripon" width="225"/>|
 [Vincent Gripon](https://www.vincent-gripon.com)<br />IMT Atlantique|

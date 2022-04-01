@@ -8,11 +8,11 @@
   </div>
   <div class="column">
    <img src="/orginisers_pictures/Yoshua_bengio.jpeg" alt="Yoshua Bengio" width="280"/>
-    <p>MILA Monteal[Yoshua Bengio](https://yoshuabengio.org/)</p>
+    MILA Monteal[Yoshua Bengio](https://yoshuabengio.org/)
   </div>
   <div class="column">
     <img src="/orginisers_pictures/goncalo.jpeg" alt="Gonçalo Mordido" width="280"/>
-    <p>Some text.kkkkk.</p>
+     MILA Montreal[Gonçalo Mordido]() Polytechnique Montreal
   </div>
 </div>
 

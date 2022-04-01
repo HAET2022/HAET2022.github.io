@@ -1,20 +1,22 @@
 
 # Schedule
 
-Please note that all provided slots are in Greenwich Mean Time+2 (GMT+2), and use a 24h format. You may use [this time zone converter](https://www.thetimezoneconverter.com) to convert these times to your local time zone.
+Please note that all provided slots are in Coordinated Universal Time-4 (UTC−4), and use a 24h format. You may use [this time zone converter](https://www.thetimezoneconverter.com) to convert these times to your local time zone.
 
 
 
 | **Time (GMT+2)**                                          | **Event**                   |
-| <span style="font-family: monospace;">13:45 14:00</span> | Opening welcome speech:  introducing the aims of the workshop, and briefly introducing the speakers.|
-| <span style="font-family: monospace;">14:00 14:30</span> | Keynote 1: [Warren Gross](/speakers#warren-gross). <br /> **Title: Stochastic Computing for Machine Learning towards an Intelligent Edge**|
-| <span style="font-family: monospace;">14:30 15:00</span>  | Keynote 2: [Julie Grollier](/speakers#julie-grollier). <br /> **Title: Spiking Equilibrium Propagation for Autonomously Learning Hardware**|
-| <span style="font-family: monospace;">15:00 15:30</span> | Keynote 3: [Ehsan Saboori](/speakers#ehsan-saboori). <br /> **Title: Deep learning model compression using neural network design space exploration**|
-| <span style="font-family: monospace;">15:30 16:00</span> | Break.|
-| <span style="font-family: monospace;">16:00 17:30</span> | Poster session and open discussion.|
-| <span style="font-family: monospace;">17:30 18:30</span> | Panel discussion.|
-| <span style="font-family: monospace;">18:30 19:00</span> | Break.|
-| <span style="font-family: monospace;">19:00 19:30</span> | Keynote 4: [Yunhe Wang](/speakers#yunhe-wang). <br /> **Title: AdderNet: Do we really need multiplications in deep learning?**|
-| <span style="font-family: monospace;">19:30 20:00</span> | Keynote 5: [Song Han](/speakers#song-han). <br /> **Title: TinyTL: Reduce Memory, Not Parameters for Efficient On-Device Training**|
-| <span style="font-family: monospace;">20:00 20:30</span> | Keynote 6: [Liangwei Ge](/speakers#liangwei-ge). <br /> **Title: Deep learning challenges and how Intel is addressing them**|
-| <span style="font-family: monospace;">20:30 21:00</span> | Announcement  of  the  different  award  winners and closing remarks.|
+| <span style="font-family: monospace;">8:45 9:00</span> | Opening welcome speech: introducing the aims of the workshop, and briefly introducing the speakers.|
+| <span style="font-family: monospace;">9:00 9:30</span> | Keynote 1: [Jian Tang](/speakers#jian-tang). <br /> **Title: Geometric Deep Learning for Drug Discovery**|
+| <span style="font-family: monospace;">9:30 10:00</span>  | Keynote 2: [Damien Querlioz](/speakers#damien-querlioz). <br /> **Title: Memory-Centric Machine Learning**|
+| <span style="font-family: monospace;">10:00 10:30</span> | Keynote 3: [Alexander Keller](/speakers#alexander-keller). <br /> **Title: 1x1-Convolutions by Random Ternary Matrices**|
+| <span style="font-family: monospace;">10:30 11:30</span> | Poster session and open discussion I|
+| <span style="font-family: monospace;">11:30 12:30</span> | Coffee break and open discussion between participants on different topics.|
+| <span style="font-family: monospace;">12:30 13:30</span> | Lunch.|
+| <span style="font-family: monospace;">13:30 14:00</span> | Keynote 4: [Melika Payvand](/speakers#melika-payvand). <br /> **Title: Closing the Gap Between Devices, Circuits and Algorithms Towards Low-Power On-Chip Online Learning**|
+| <span style="font-family: monospace;">14:00 14:30</span> | Keynote 5: [Fabien Cardinaux](/speakers#fabien-cardinaux). <br /> **Title: DNN Quantization with Mixed Precision and Trained Lookup Tables**|
+| <span style="font-family: monospace;">14:30 15:00</span> | Keynote 6: [Tien-Ju Yang](/speakers#tien-ju-yang). <br /> **Title: Neural Network Design and Training for Efficient On-Device Learning**|
+| <span style="font-family: monospace;">15:00 16:00</span> |Poster session and open discussion II|
+| <span style="font-family: monospace;">16:00 16:30</span> | Coffee break and open discussion between participants on different topics.|
+| <span style="font-family: monospace;">16:30 17:30</span> | Panel discussion.|
+| <span style="font-family: monospace;">17:30 18:00</span> | Announcement  of  the  different  award  winners and closing remarks.|

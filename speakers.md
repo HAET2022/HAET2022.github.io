@@ -1,21 +1,21 @@
 
 # Speakers
 
-- [Warren Gross](#warren-gross)
-- [Julie Grollier](#julie-grollier)
-- [Song Han](#song-han)
-- [Ehsan Saboori](#ehsan-saboori)
-- [Yunhe Wang](#yunhe-wang)
-- [Liangwei Ge](#liangwei-ge)
+- [Jian Tang](#jian-tang)
+- [Damien Querlioz](#damien-querlioz)
+- [Alexander Keller](#alexander-keller)
+- [Melika Payvand](#melika-payvand)
+- [Fabien Cardinaux](#fabien-cardinaux)
+- [Tien-Ju Yang](#tien-ju-yang)
 
-## Warren Gross
+## Jian Tang
 
-| <img src="/speakers_pictures/warren.jpg" alt="Warren Gross" height="250px" /> |
-| **Stochastic Computing for Machine Learning towards an Intelligent Edge** |
-| Deep learning offers the promise of intelligent devices that are able to perceive, reason and take intuitive actions. The rising adoption of deep learning techniques has motivated the search for low-cost and high-speed software and hardware solutions for deployment on smart edge devices. In recent years work has focused on reducing the complexity of inference in deep neural networks, however, a method enabling low-complexity on-chip learning is still missing. In this talk we explore the promise of a hardware implementation technique called stochastic computing, which represents values in an algorithm as streams of randomly chosen bits. We show how stochastic computing can be used as a binary or ternary compression technique for both inference and training of deep neural networks. We also show how stochastic computing can implement invertible logic circuits that perform learning without backpropagation. |
+| <img src="/speakers_pictures/Jian.jpg" alt="Jian Tang" height="250px" /> |
+| **Geometric Deep Learning for Drug Discovery** |
+| Drug discovery is a very long and expensive process, taking on average more than 10 years and costing \$2.5B to develop a new drug. Artificial intelligence has the potential to significantly accelerate the process of drug discovery by extracting evidence from a huge amount of biomedical data and hence revolutionizes the entire pharmaceutical industry. In particular, graph representation learning and geometric deep learning--a fast growing topic in the machine learning and data mining community focusing on deep learning for graph-structured and 3D data---has seen great opportunities for drug discovery as many data in the domain are represented as graphs or 3D structures (e.g. molecules, proteins, biomedical knowledge graphs). In this talk, I will introduce our recent progress on geometric deep learning for drug discovery and also a newly released open-source machine learning platform for drug discovery, called TorchDrug. |
 
-| **Affiliation** | [McGill University](https://www.mcgill.ca/ece/warren-gross) |
-| **Biography** | Warren J. Gross received the B.A.Sc. degree in Electrical Engineering from the University of Waterloo, Waterloo, ON, Canada, in 1996, and the M.A.Sc. and Ph.D. degrees from the University of Toronto, Toronto, ON, Canada, in 1999 and 2003, respectively. He is currently a Professor, the Louis Ho Faculty Scholar in Technological Innovation,  and the Chair of the Department of Electrical and Computer Engineering, McGill University, Montreal, QC, Canada. His research interests are in the design and implementation of signal processing systems and custom computer architectures. Dr. Gross served as the Chair for the IEEE Signal Processing Society Technical Committee on Design and Implementation of Signal Processing Systems. He served as the General Co-Chair for the IEEE GlobalSIP 2017 and the IEEE SiPS 2017 and the Technical Program Co-Chair for SiPS 2012. He served as an Associate Editor for the IEEE TRANSACTIONS ON SIGNAL PROCESSING and as a Senior Area Editor. He is a Licensed Professional Engineer in the Province of Ontario. | 
+| **Affiliation** | [MILA](https://jian-tang.com/) |
+| **Biography** | Jian Tang is currently an assistant professor at Mila-Quebec AI Institute and also at the Computer Science Department and Business School of University of Montreal.  He is a Canada CIFAR AI Research Chair. His main research interests are graph representation learning, graph neural networks, geometric deep learning, deep generative models, knowledge graphs and drug discovery. During his PhD, he was awarded with the best paper in ICML2014; in 2016, he was nominated for the best paper award in the top data mining conference World Wide Web (WWW); in 2020, he is awarded with Amazon and Tencent Faculty Research Award. He is one of the most representative researchers in the growing field of graph representation learning and has published a set of representative works in this field such as LINE and RotatE. His work LINE on node representation learning has been widely recognized and is the most cited paper at the WWW conference between 2015 and 2019.  Recently, his group just released an open-source machine learning package, called TorchDrug, aiming at  making AI drug discovery software and libraries freely available to the research community. He is an area chair of ICML and NeurIPS. | 
 
 
 ## Julie Grollier

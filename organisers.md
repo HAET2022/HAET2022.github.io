@@ -3,15 +3,15 @@
 
 <div class="row">
   <div class="column">
-   <img src="/orginisers_pictures/UserImage.jpg" alt="Ghouthi Boukli Hacene" object-fit: "contain" width="80%"/>
+   <img class="imgorg" src="/orginisers_pictures/UserImage.jpg" alt="Ghouthi Boukli Hacene"/>
     [Ghouthi Boukli Hacene](https://mila.quebec/personne/ghouthi-boukli-hacene/)
   </div>
   <div class="column">
-   <img src="/orginisers_pictures/Yoshua_bengio.jpeg" alt="Yoshua Bengio" object-fit: "contain" width="80%"/>
+   <img src="/orginisers_pictures/Yoshua_bengio.jpeg" alt="Yoshua Bengio" />
     MILA Monteal[Yoshua Bengio](https://yoshuabengio.org/)
   </div>
   <div class="column">
-   <img src="/orginisers_pictures/Yoshua_bengio.jpeg" alt="Yoshua Bengio" width="280"/>
+   <img src="/orginisers_pictures/Yoshua_bengio.jpeg" alt="Yoshua Bengio" />
     MILA Monteal[Yoshua Bengio](https://yoshuabengio.org/)
   </div>
 </div>

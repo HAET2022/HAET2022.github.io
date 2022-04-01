@@ -1,59 +1,27 @@
 # Organisers
-<head>
 
-<style>
-* {
-  box-sizing: border-box;
-}
 
-/* Create three equal columns that floats next to each other */
-.column {
-  float: left;
+<div class="row" style="display: table;
+  clear: both";
+     >
+  <div class="column" style = "float: left;
   width: 33.33%;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-</head>
-<style>
-* {
-  box-sizing: border-box;
-}
-
-/* Create three equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-
-
-<div class="row">
-  <div class="column" >
+  height: 300px;"  >
     <img src="/orginisers_pictures/UserImage.jpg" alt="Ghouthi Boukli Hacene" object-fit:contain; width =80%;/>
     <p>[Ghouthi Boukli Hacene](https://mila.quebec/personne/ghouthi-boukli-hacene/)</p>
   </div>
-  <div class="column" >
+  <div class="column"  style = "float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px;">
    <img src="/orginisers_pictures/Yoshua_bengio.jpeg" alt="Yoshua Bengio" object-fit:contain; width =80%;/>
     <p>MILA Monteal[Yoshua Bengio](https://yoshuabengio.org/)</p>
   </div>
-  <div class="column"
+  <div class="column"  style = "float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px;">
     <img src="/orginisers_pictures/goncalo.jpeg" alt="Gonçalo Mordido" object-fit:contain; width =80%;/>
 
     <p>Some text..</p>

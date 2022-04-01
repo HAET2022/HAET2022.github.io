@@ -3,7 +3,7 @@
 
 <div class="row">
   <div class="column">
-    <img src="/orginisers_pictures/UserImage.jpg" alt="Ghouthi Boukli Hacene" object-fit:contain; width =50%;/>
+    <img src="/orginisers_pictures/UserImage.jpg" alt="Ghouthi Boukli Hacene" object-fit:contain width =50%/>
     <p>[Ghouthi Boukli Hacene](https://mila.quebec/personne/ghouthi-boukli-hacene/)</p>
   </div>
   <div class="column">
@@ -11,7 +11,7 @@
     <p>MILA Monteal[Yoshua Bengio](https://yoshuabengio.org/)</p>
   </div>
   <div class="column">
-    <img src="/orginisers_pictures/goncalo.jpeg" alt="Gonçalo Mordido" object-fit:contain; width =50%;/>
+    <img src="/orginisers_pictures/goncalo.jpeg" alt="Gonçalo Mordido" object-fit:contain width =50%/>
     <p>Some text..</p>
   </div>
 </div>

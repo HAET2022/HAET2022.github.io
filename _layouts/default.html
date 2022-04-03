@@ -30,22 +30,12 @@
   .grid-container {
   display: grid;
   column-gap: 50px;
-  grid-template-columns: auto auto auto;
+   grid-template-rows:    repeat(3, 100px);
+   grid-template-columns: repeat(3, 33.33%);
   padding: 10px;
+    justify-content: space-evenly;
 }
 
-.column {
- float: left;
-      width: 33.33%;
-      padding: 10px;
-      height : 50px ;
-      display : block ;
-}
-  .column img {
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-    }
   <!--
      .column {
       float: left;

@@ -35,14 +35,6 @@
 </div>
 
 
-|<br /><br /><br />
-
-
-
-|<img  width="225"/>|
-
-
-
 <!-- <img src="/orginisers_pictures/Yoshua_bengio.jpeg" alt="Yoshua Bengio" width="280"/><img src="/orginisers_pictures/goncalo.jpeg" alt="Gonçalo Mordido" width="225"/>
 
 [Ghouthi Boukli Hacene](https://mila.quebec/personne/ghouthi-boukli-hacene/) MILA Monteal[Yoshua Bengio](https://yoshuabengio.org/) MILA Montreal[Gonçalo Mordido]() Polytechnique Montreal

@@ -28,7 +28,7 @@
    CNRS, Thales
   </div>
    <div class="column">
-   <img src="/orginisers_pictures/vincent gripon.png" alt="vincent gripon" />
+   <img src="/orginisers_pictures/VG.png" alt="vincent gripon" />
    [Vincent Gripon](https://www.vincent-gripon.com)<br />IMT Atlantique
   </div>
 </div>

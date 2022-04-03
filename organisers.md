@@ -1,11 +1,11 @@
 # Organisers
 
 
-<div class="row">
+<div class="grid-container">
   <div class="column">
    <img src="/orginisers_pictures/UserImage.jpg" alt="Ghouthi Boukli Hacene"/>
     [Ghouthi Boukli Hacene](https://mila.quebec/personne/ghouthi-boukli-hacene/)
-  </div>
+
   <div class="column">
    <img src="/orginisers_pictures/Yoshua_bengio.jpeg" alt="Yoshua Bengio" />
     MILA Monteal[Yoshua Bengio](https://yoshuabengio.org/)
@@ -14,8 +14,7 @@
    <img src="/orginisers_pictures/goncalo.jpeg" alt="Gonçalo Mordido" />
     MILA Montreal[Gonçalo Mordido]() Polytechnique Montreal
   </div>
-</div>
-<div class="row">
+
   <div class="column">
    <img src="/orginisers_pictures/vahid_photo.png" alt="Vahid Partovi Nia‬" />
    [Vahid Partovi Nia](https://datawisdom.ca)
@@ -29,8 +28,7 @@
    [Julie Grollier](http://julie.grollier.free.fr)
    CNRS, Thales
   </div>
-</div>
-<div class="row">
+
    <div class="column">
    <img src="/orginisers_pictures/vincent gripon.png" alt="vincent gripon" />
    [Vincent Gripon](https://www.vincent-gripon.com)<br />IMT Atlantique

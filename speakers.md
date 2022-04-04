@@ -50,7 +50,7 @@
 | Tur digital society is shifting to an era of pervasive specialized edge-computing systems for a wide variety of tasks.Artificial Intelligence (AI) is fueling this revolution to achieve remarkable results for both pattern recognition and generation. However, the current technology used to run AI algorithms is not optimally suited for the low-power and real-time requirements of edge-computing devices. While multiple efforts have been launched to develop low power processing technologies to overcome this problem, training these algorithms for continuous learning and adaptation at the edge remains a challenge. Neuromorphic technologies with adaptive properties have the potential to overcome this problem through learning continuously from streaming data in an always-on and low power fashion. Moreover, there has been lots of advancements in emerging memory technologies which present a great opportunity for online learning through their multi-state properties and internal dynamics. Furthermore, there have been many recent new neuroscientific discoveries and machine learning insights which makes this problem very timely. |
 
 | **Affiliation** | [University of Zurich](https://services.ini.uzh.ch/people/melika) |
-| **Biography** |  Alexander Keller is a director of research at NVIDIA.|
+| **Biography** |  Melika Payvand is a research scientist at the Institute of Neuroinformatics, University of Zurich and ETH Zurich. She received her M.S. and Ph.D.|
 
 
 

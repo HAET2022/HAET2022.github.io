@@ -27,32 +27,20 @@
    * {
       box-sizing: border-box;
     }
-   .grid-container {
-    display: grid;
-    column-gap: 50px;
-    grid-template-rows:   150px;
-    grid-template-columns: repeat(3, 33.33%);
-    padding: 10px;
-    justify-content: space-evenly;
-  }
-   .column img {
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-    }
+
  
-  tr { 
+  .orgtabletr { 
     border: transparent 10px solid; 
     height : 200 px;
     width : 33,33% ;
    }
   
-   td, th, tr, table {
+   .orgtabletd, .orgtableth, .orgtabletr, .orgtable {
     border: transparent 10px !important;
     border-spacing:10px !important;
   }
   
-  .tr img {
+  .orgtabletr img {
     height: 100%;
     width: 100%;
     object-fit: cover;
@@ -88,6 +76,19 @@
       clear: both;
     }
   .column img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    }
+     .grid-container {
+    display: grid;
+    column-gap: 50px;
+    grid-template-rows:   150px;
+    grid-template-columns: repeat(3, 33.33%);
+    padding: 10px;
+    justify-content: space-evenly;
+  }
+   .column img {
     height: 100%;
     width: 100%;
     object-fit: cover;

@@ -27,7 +27,7 @@
    </td>
     <td>  
       <img src="/orginisers_pictures/leduc-primeau-francois.jpg" alt="François Leduc-primeau" width="200"/>
- </br>
+ <br>
       Huawei Noah's Ark Canada|[François Leduc-primeau](https://www.gr2m.polymtl.ca/francois-leduc-primeau-en)Polytechnique Montreal
    </td>
    <td>  

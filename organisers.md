@@ -32,7 +32,7 @@
   </tr>
  <tr class="orgtabletr">
     <td class="orgtabletd">  
-     <img src="/orginisers_pictures/VG.png" alt="vincent gripon" width="150" height="200"/>
+     <img src="/orginisers_pictures/VG.png" alt="vincent gripon" width="200" height="200"/>
     <p> <a href="https://www.vincent-gripon.com"> Vincent Gripon </a> IMT Atlantique</p>
    </td>
   </tr>

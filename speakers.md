@@ -62,7 +62,7 @@
 
 ## Fabien Cardinaux
 
-| <img src="/speakers_pictures/Fabien.jpeg" alt="Fabien Cardinaux" height="250px" /> |
+| <img src="/speakers_pictures/Fabien.png" alt="Fabien Cardinaux" height="250px" /> |
 | **DNN Quantization with Mixed Precision and Trained Lookup Tables.** |
 | Efficient deep neural network (DNN) inference on mobile or embedded devices typically involves quantization of the network parameters and activations. In this talk we will see how we can parametrize the quantizers efficiently to learn the optimal bitwidth for each layer.  We show that a parametrization of the quantizer with step size and dynamic range is the key to achieve a stable training and a good final performance. The bitwidth can then be inferred from them. In a second part we will introduce look-up table quantization, LUT-Q, which learns a dictionary and assigns each weight to one of the dictionary’s values. We show that this method is very flexible and that many other techniques can be seen as special cases of LUT-Q. For example, we can constrain the dictionary trained with LUT-Q to generate networks with pruned weight matrices or restrict the dictionary to powers-of-two to avoid the need for multiplications. |
 

@@ -22,7 +22,7 @@
   <tr>
     <td>  <figure>
       <img src="/orginisers_pictures/UserImage.jpg" alt="Ghouthi Boukli Hacene" width="200"/>
-      <figcaption>[Ghouthi Boukli Hacene](https://mila.quebec/personne/ghouthi-boukli-hacene/)</figcaption>
+      [Ghouthi Boukli Hacene](https://mila.quebec/personne/ghouthi-boukli-hacene/)
       </figure>
    </td>
     <td>  <figure>

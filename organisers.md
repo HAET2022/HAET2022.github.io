@@ -5,7 +5,7 @@
     <td>  
       <img src="/orginisers_pictures/UserImage.jpg" alt="Ghouthi Boukli Hacene" width="200"/>
      <br>
-      [Ghouthi Boukli Hacene](https://mila.quebec/personne/ghouthi-boukli-hacene/)
+      Ghouthi Boukli Hacene (https://mila.quebec/personne/ghouthi-boukli-hacene/)
    </td>
     <td>  
      <img src="/orginisers_pictures/Yoshua_bengio.jpeg" alt="Yoshua Bengio" width="200" />

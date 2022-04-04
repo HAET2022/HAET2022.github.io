@@ -1,9 +1,9 @@
 
 # Speakers
 
-- [Jian Tang](#jian-tang)//
+- [Jian Tang](#jian-tang)
 
-- [Damien Querlioz](#damien-querlioz)\\
+- [Damien Querlioz](#damien-querlioz)
 
 - [Alexander Keller](#alexander-keller)
 

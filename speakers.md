@@ -2,10 +2,15 @@
 # Speakers
 
 - [Jian Tang](#jian-tang)
+
 - [Damien Querlioz](#damien-querlioz)
+
 - [Alexander Keller](#alexander-keller)
+
 - [Melika Payvand](#melika-payvand)
+
 - [Fabien Cardinaux](#fabien-cardinaux)
+
 - [Tien-Ju Yang](#tien-ju-yang)
 
 ## Jian Tang

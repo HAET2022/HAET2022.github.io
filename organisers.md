@@ -31,7 +31,7 @@
       Huawei Noah's Ark Canada|[François Leduc-primeau](https://www.gr2m.polymtl.ca/francois-leduc-primeau-en)Polytechnique Montreal
    </td>
    <td>  
-    <img src="/orginisers_pictures/JG1.jpg" alt="Julie Grollier" width="200" height="300"/>
+    <img src="/orginisers_pictures/JG1.jpg" alt="Julie Grollier" width="200" height="250"/>
  <br>
    [Julie Grollier](http://julie.grollier.free.fr)
    CNRS, Thales

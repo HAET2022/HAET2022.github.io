@@ -26,7 +26,7 @@
       <p> <a href="https://www.gr2m.polymtl.ca/francois-leduc-primeau-en"> François Leduc-primeau</a> Polytechnique Montreal</p>
    </td>
    <td class="orgtabletd">  
-    <img src="/orginisers_pictures/JG1.jpg" alt="Julie Grollier" width="200" height="250"/>
+    <img src="/orginisers_pictures/JG1.jpg" alt="Julie Grollier" style="width:200px; height=250px;"/>
    <p> <a href="http://julie.grollier.free.fr"> Julie Grollier</a> CNRS, Thales</p>
    </td>
   </tr>

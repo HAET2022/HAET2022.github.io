@@ -3,37 +3,31 @@
 <table>
  <tr>
     <td>  
-     <figure>
-      <img src="/orginisers_pictures/UserImage.jpg" alt="Ghouthi Boukli Hacene" height="200" width="200"/>
-      <figcaption>[Ghouthi Boukli Hacene](https://mila.quebec/personne/ghouthi-boukli-hacene/)</figcaption>
-      </figure>
+      <img src="/orginisers_pictures/UserImage.jpg" alt="Ghouthi Boukli Hacene" width="200"/>
+      [Ghouthi Boukli Hacene](https://mila.quebec/personne/ghouthi-boukli-hacene/)
    </td>
-    <td>  <figure>
-     <img src="/orginisers_pictures/Yoshua_bengio.jpeg" alt="Yoshua Bengio"  width="200" />
-      <figcaption>MILA Monteal[Yoshua Bengio](https://yoshuabengio.org/)</figcaption>
-      </figure>
+    <td>  
+     <img src="/orginisers_pictures/Yoshua_bengio.jpeg" alt="Yoshua Bengio" width="200" />
+      MILA Monteal[Yoshua Bengio](https://yoshuabengio.org/)
    </td>
-   <td>  <figure>
-     <img src="/orginisers_pictures/goncalo.jpeg" alt="Gonçalo Mordido"  width="200" />
-      <figcaption> MILA Montreal[Gonçalo Mordido]() Polytechnique Montreal</figcaption>
-      </figure>
+   <td>  
+    <img src="/orginisers_pictures/goncalo.jpeg" alt="Gonçalo Mordido" width="200" />
+    MILA Montreal[Gonçalo Mordido]() Polytechnique Montreal
    </td>
   </tr> 
   <tr>
-    <td>  <figure>
-      <img src="/orginisers_pictures/UserImage.jpg" alt="Ghouthi Boukli Hacene" width="200"/>
-      [Ghouthi Boukli Hacene](https://mila.quebec/personne/ghouthi-boukli-hacene/)
-      </figure>
+    <td>  
+     <img src="/orginisers_pictures/vahid_photo.png" alt="Vahid Partovi Nia‬" width="200"/>
+   [Vahid Partovi Nia](https://datawisdom.ca)
    </td>
-    <td>  <figure>
-     <img src="/orginisers_pictures/Yoshua_bengio.jpeg" alt="Yoshua Bengio"  width="200"/>
-      <figcaption>MILA Monteal[Yoshua Bengio](https://yoshuabengio.org/)</figcaption>
-      </figure>
+    <td>  
+      <img src="/orginisers_pictures/leduc-primeau-francois.jpg" alt="François Leduc-primeau" width="200"/>
+      Huawei Noah's Ark Canada|[François Leduc-primeau](https://www.gr2m.polymtl.ca/francois-leduc-primeau-en)Polytechnique Montreal
    </td>
-   <td>  <figure>
-     <img src="/orginisers_pictures/goncalo.jpeg" alt="Gonçalo Mordido" width="200"/>
-      <figcaption> MILA Montreal[Gonçalo Mordido]() Polytechnique Montreal</figcaption>
-      </figure>
+   <td>  
+    <img src="/orginisers_pictures/JG1.jpg" alt="Julie Grollier" width="200"/>
+   [Julie Grollier](http://julie.grollier.free.fr)
+   CNRS, Thales
    </td>
   </tr>
  

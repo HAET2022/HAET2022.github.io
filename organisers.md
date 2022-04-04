@@ -9,9 +9,8 @@
    </td>
     <td>  
      <img src="/orginisers_pictures/Yoshua_bengio.jpeg" alt="Yoshua Bengio" width="200" />
-      <br>
-      MILA Monteal[Yoshua Bengio](https://yoshuabengio.org/)
- 
+    
+      <p> MILA Monteal[Yoshua Bengio](https://yoshuabengio.org/) </p> 
    </td>
    <td>  
     <img src="/orginisers_pictures/goncalo.jpeg" alt="Gonçalo Mordido" width="200" />

@@ -5,17 +5,17 @@
     <td class="orgtabletd">  
        <img src="/orginisers_pictures/UserImage.jpg" alt="Ghouthi Boukli Hacene" width="250" height="250"/>
         <a href="https://mila.quebec/personne/ghouthi-boukli-hacene/"> Ghouthi Boukli Hacene</a> 
-        <p style="margin : 0;"> Sony, MILA Monteal</p>
+        <p style="margin : 0;"> Sony, Mila</p>
    </td>
     <td class="orgtabletd">  
         <img src="/orginisers_pictures/Yoshua_bengio.jpeg" alt="Yoshua Bengio" width="250" height="250" />
         <a href="https://yoshuabengio.org/"> Yoshua Bengio</a> 
-        <p style="margin : 0;">MILA Monteal</p>
+        <p style="margin : 0;">University of Montreal, Mila</p>
    </td>
    <td class="orgtabletd">  
     <img src="/orginisers_pictures/goncalo.jpeg" alt="Gonçalo Mordido" width="250" height="250" />
     <a href="https://goncalomordido.github.io/"> Gonçalo Mordido</a> 
-    <p style="margin : 0;">Polytechnique Montreal, MILA Monteal</p>
+    <p style="margin : 0;">Polytechnique Montreal, Mila</p>
    </td>
   </tr> 
   <tr class="orgtabletr">

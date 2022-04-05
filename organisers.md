@@ -12,7 +12,7 @@
    </td>
    <td class="orgtabletd">  
     <img src="/orginisers_pictures/goncalo.jpeg" alt="Gonçalo Mordido" width="250" height="250" />
-  <p>Gonçalo Mordido Polytechnique Montreall</p>
+  <p>Gonçalo Mordido Polytechnique Montreal</p>
    </td>
   </tr> 
   <tr class="orgtabletr">

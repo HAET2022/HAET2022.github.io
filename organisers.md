@@ -20,7 +20,7 @@
   </tr> 
   <tr class="orgtabletr">
     <td class="orgtabletd">  
-     <img src="/orginisers_pictures/vahid_photo.png" alt="Vahid Partovi Nia‬" width="250" height="250"/>
+     <img src="/orginisers_pictures/vahid_photo.png" alt="Vahid Partovi Nia" width="250" height="250"/>
      <a href="https://datawisdom.ca"> Vahid Partovi Nia </a> 
      <p style="margin : 0;"> Huawei Noah's Ark Canada</p>
  
@@ -31,14 +31,14 @@
        <p style="margin : 0;">Polytechnique Montreal</p>
    </td>
    <td class="orgtabletd">  
-    <img src="/orginisers_pictures/JG1.jpg" alt="Julie Grollier" width="200" height="300"/>
+    <img src="/orginisers_pictures/JG1.jpg" alt="Julie Grollier" width="250" height="250"/>
     <p style="margin : 0;"><a href="http://julie.grollier.free.fr"> Julie Grollier</a>  </p>
     <p style="margin : 0;"> CNRS, Thales</p>
    </td>
   </tr>
  <tr class="orgtabletr">
     <td class="orgtabletd">  
-     <img src="/orginisers_pictures/VG.png" alt="vincent gripon" width="200" height="200"/>
+     <img src="/orginisers_pictures/VG.png" alt="vincent gripon" width="250" height="250"/>
      <a href="https://www.vincent-gripon.com"> Vincent Gripon </a> 
      <p style="margin : 0;"> IMT Atlantique</p>
    </td>

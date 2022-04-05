@@ -4,3 +4,4 @@ To reach top-tier performance, deep learning models usually use a large number o
 
 In this workshop, we propose to focus on reducing the complexity of the training process. Our aim is to gather researchers interested in reducing energy, time, or memory usage for faster/cheaper/greener prototyping or deployment of deep learning models. Due to the dependence of deep learning on large computational capacities, the outcomes of the workshop could benefit all who deploy these solutions, including those who are not hardware specialists. Moreover, it would contribute to making deep learning more accessible to small businesses and small laboratories.
 
+Checkout the <a href="https://haet2021.github.io/">previous workshop edition</a> at ICLR 2021.

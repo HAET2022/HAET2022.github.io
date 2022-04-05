@@ -14,7 +14,7 @@
    </td>
    <td class="orgtabletd">  
     <img src="/orginisers_pictures/goncalo.jpeg" alt="Gonçalo Mordido" width="250" height="250" />
-    <p> Gonçalo Mordido</p>
+    <p style="margin : 0;"> Gonçalo Mordido</p>
     <p style="margin : 0;">Polytechnique Montreal</p>
    </td>
   </tr> 
@@ -27,12 +27,12 @@
    </td>
     <td class="orgtabletd">  
       <img src="/orginisers_pictures/leduc-primeau-francois.jpg" alt="François Leduc-primeau" width="250" height="250"/>
-       <a href="https://www.gr2m.polymtl.ca/francois-leduc-primeau-en"> 
-       <p style="margin : 0;"> François Leduc-primeau</a> Polytechnique Montreal</p>
+       <a href="https://www.gr2m.polymtl.ca/francois-leduc-primeau-en"> François Leduc-primeau</a> 
+       <p style="margin : 0;">Polytechnique Montreal</p>
    </td>
    <td class="orgtabletd">  
     <img src="/orginisers_pictures/JG1.jpg" alt="Julie Grollier" width="200" height="300"/>
-    <a href="http://julie.grollier.free.fr"> Julie Grollier</a>  
+    <p><a href="http://julie.grollier.free.fr"> Julie Grollier</a>  <p>
     <p style="margin : 0;"> CNRS, Thales</p>
    </td>
   </tr>

@@ -5,7 +5,7 @@
     <td class="orgtabletd">  
        <img src="/orginisers_pictures/UserImage.jpg" alt="Ghouthi Boukli Hacene" width="250" height="250"/>
         <a href="https://mila.quebec/personne/ghouthi-boukli-hacene/"> Ghouthi Boukli Hacene</a> 
-        <p style="margin : 0;"> MILA Monteal</p>
+        <p style="margin : 0;"> Sony, MILA Monteal</p>
    </td>
     <td class="orgtabletd">  
         <img src="/orginisers_pictures/Yoshua_bengio.jpeg" alt="Yoshua Bengio" width="250" height="250" />

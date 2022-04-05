@@ -34,6 +34,10 @@
       height : 250 px;
       
      }
+  .orgtable {
+     margin-left: auto;
+    margin-right: auto;
+  }
      .orgtabletd, .orgtabletr, .orgtable {
       text-align : initial;
       border: transparent 10px !important;
@@ -70,7 +74,7 @@
               <ul class="ul-nav">
               {% for item in site.navigation %}
                 <li class="il-nav">
-                   <a href="{{ item[1] }}" style=" font-size:2.5em; color: white; text-decoration: none; padding: 14px 16px;" class="btn hov" >{{ item[0] }}</a>
+                   <a href="{{ item[1] }}" style=" font-size:1.5em; color: white; text-decoration: none; padding: 14px 16px;" class="btn hov" >{{ item[0] }}</a>
                 </li>
                {% endfor %}
               </ul> 

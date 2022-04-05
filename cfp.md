@@ -1,16 +1,16 @@
 # Important Dates 
 
-- Paper submission deadline: 20 Mai 2022 (11:59 pm UTC-11).
+- Paper submission deadline: 20 May 2022 (11:59 pm UTC-11).
 - Acceptance notification: 13 June 2022.
-- Camera ready deadline: 30 June 2022 (11:59 pm UTC-11).
+- Camera-ready deadline: 30 June 2022 (11:59 pm UTC-11).
 
 # Author Instructions
 
-The authors have to follow the instructions listed below when submitting thier contributions:
+The authors have to follow the instructions listed below when submitting their contributions:
 
 - Use the ICML LaTeX [template](https://media.icml.cc/Conferences/ICML2022/Styles/icml2022.zip) to prepare the manuscript.
 - Papers should not be longer than 4 pages, including figures and tables, and excluding references and appendix.
-- Do not report author names since the review is double blind.
+- Do not report author names since the review is double-blind.
 - Papers that have been accepted in the main ICML conference cannot be submitted to the workshop.  
 - Manuscripts should be submitted using the [CMT](https://cmt3.research.microsoft.com/HAET2022) system. 
 
@@ -21,11 +21,11 @@ The workshop welcomes contributions that seek to reduce the cost of the training
 - compression methods to reduce memory usage and/or complexity of deep learning during training,
 - hardware architectures and implementations for deep learning training,
 - energy reduction techniques for deep learning training,
-- open-source designs, implementations and code related to efficient deep-learning implementations,
+- open-source designs, implementations, and code related to efficient deep-learning implementations,
 - energy models or energy-efficiency benchmarks for deep learning training implementations,
 - applications of low-energy deep learning training,
 - equilibrium-propagation-based techniques and/or their hardware implementations,
-- few-shot/few-labels and semi-supervised learning methods for training on chip.  
+- few-shot/few-labels and semi-supervised learning methods for training on-chip.  
  
 # Awards and Prizes
 

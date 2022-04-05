@@ -1,4 +1,4 @@
-# Organisers
+# Organizers
 
 <table class="orgtable">
  <tr class="orgtabletr">
@@ -14,8 +14,8 @@
    </td>
    <td class="orgtabletd">  
     <img src="/orginisers_pictures/goncalo.jpeg" alt="Gonçalo Mordido" width="250" height="250" />
-    <p style="margin : 0;"> Gonçalo Mordido</p>
-    <p style="margin : 0;">Polytechnique Montreal</p>
+    <a href="https://goncalomordido.github.io/"> Gonçalo Mordido</a> 
+    <p style="margin : 0;">Polytechnique Montreal, MILA Monteal</p>
    </td>
   </tr> 
   <tr class="orgtabletr">

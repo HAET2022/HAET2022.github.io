@@ -9,7 +9,7 @@
     <td class="orgtabletd">  
      <img src="/orginisers_pictures/Yoshua_bengio.jpeg" alt="Yoshua Bengio" width="250" height="250" />
         <a href="https://yoshuabengio.org/"> Yoshua Bengio</a> 
-        <p>MILA Monteal</p>
+        <p style="margin : 0;">MILA Monteal</p>
    </td>
    <td class="orgtabletd">  
     <img src="/orginisers_pictures/goncalo.jpeg" alt="Gonçalo Mordido" width="250" height="250" />

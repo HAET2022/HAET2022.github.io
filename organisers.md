@@ -32,7 +32,7 @@
    </td>
    <td class="orgtabletd">  
     <img src="/orginisers_pictures/JG1.jpg" alt="Julie Grollier" width="200" height="300"/>
-    <p><a href="http://julie.grollier.free.fr"> Julie Grollier</a>  </p>
+    <p style="margin : 0;"><a href="http://julie.grollier.free.fr"> Julie Grollier</a>  </p>
     <p style="margin : 0;"> CNRS, Thales</p>
    </td>
   </tr>

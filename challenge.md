@@ -30,7 +30,6 @@ Methods will be ranked according to the accuracy they achieve after 10 minutes o
 
 
 
-Ranking for the 3 best teams <span style="color:red;">**displayed bellow**</span>. The best 3 teams will be invited to present their solution during the workshop poster session and will receive an award. 
 
 
 You may contact us on ghouthi.bouklihacene@gmail.fr\bouklihg@mila.quebec if you need further details.

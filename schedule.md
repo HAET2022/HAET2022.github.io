@@ -13,7 +13,7 @@ Please note that all provided slots are in Coordinated Universal Time-4 (UTC−4
 | <span style="font-family: monospace;">10:30 11:30</span> | Poster session and open discussion I|
 | <span style="font-family: monospace;">11:30 12:30</span> | Coffee break and open discussion between participants on different topics.|
 | <span style="font-family: monospace;">12:30 13:30</span> | Lunch.|
-| <span style="font-family: monospace;">13:30 14:00</span> | Keynote 4: [Melika Payvand](/speakers#melika-payvand). <br /> **Title: Closing the Gap Between Devices, Circuits and Algorithms Towards Low-Power On-Chip Online Learning**|
+| <span style="font-family: monospace;">13:30 14:00</span> | Keynote 4: [Melika Payvand](/speakers#melika-payvand). <br /> **Title: Brain-inspired hardware and algorithm co-design for low power online training on the edge**|
 | <span style="font-family: monospace;">14:00 14:30</span> | Keynote 5: [Fabien Cardinaux](/speakers#fabien-cardinaux). <br /> **Title: DNN Quantization with Mixed Precision and Trained Lookup Tables**|
 | <span style="font-family: monospace;">14:30 15:00</span> | Keynote 6: [Tien-Ju Yang](/speakers#tien-ju-yang). <br /> **Title: Neural Network Design and Training for Efficient On-Device Learning**|
 | <span style="font-family: monospace;">15:00 16:00</span> |Poster session and open discussion II|

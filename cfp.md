@@ -26,7 +26,7 @@ The workshop welcomes contributions that seek to reduce the cost of the training
 - applications of low-energy deep learning training,
 - equilibrium-propagation-based techniques and/or their hardware implementations,
 - few-shot/few-labels and semi-supervised learning methods for training on-chip,  
-- other related contributions are welcome such as compression techniques for inference with deep learning.
+- other related contributions are welcome such as compression techniques for inference with deep learning architectures.
  
 # Awards and Prizes
 

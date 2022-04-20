@@ -9,6 +9,16 @@
 - [Jian Tang](#jian-tang)
 
 
+## Melika Payvand
+
+| <img src="/speakers_pictures/Melika.jpeg" alt="Melika Payvand" height="250px" /> |
+| **Brain-inspired hardware and algorithm co-design for low power online training on the edge** |
+| Our digital society is shifting to an era of pervasive and specialized edge-computing systems. Deep learning (DL) is supporting this revolution by enabling unprecedented performances for a wide range of pattern classification and regression applications. However, the conventional Von Neumann hardware architecture and training algorithms are not the most optimally suited for the low-power and real-time requirements of edge-computing devices. Event-based neuromorphic technologies aim to overcome this problem by removing the computational abstractions and better exploiting the physics of the substrate while running online algorithms that require spatially and temporally local weight updates. In this talk, I will introduce a co-design approach between recent event-based algorithms, scalable emerging memory devices, and circuits that together holistically fulfill these requirements. Specifically, I will share our recent works that exploit memristive devices intrinsic properties to implement event-driven gradient-based quantization-aware local learning on-chip. We will cover methods to increase the bit-resolution of memristive devices, implement scalable eligibility traces on hardware for solving temporal credit assignment, derive local error-based learning rules, and more. We will discuss some applications of these technologies for real-time sensory processing, such as gesture recognition, pattern generation, and biomedical signal processing. |
+
+| **Affiliation** | [University of Zurich and ETH Zurich](https://services.ini.uzh.ch/people/melika) |
+| **Biography** |  Melika Payvand is a senior research scientist at the Institute of Neuroinformatics, University of Zurich and ETH Zurich. She received her M.S. and Ph.D. degrees in electrical and computer engineering from the University of California Santa Barbara in 2012 and 2016 respectively. Her research interest is in understanding the organizing principles of biological nervous systems and employing them in building more efficient and intelligent artificial systems, following a co-design approach across devices, circuits and algorithms. She is an active member of the neuromorphic community, co coordinating the European NEUROTECH project, chairing the neuromorphic engineering track at the IEEE ISCAS conference, co-chairing the International Conference on Neuromorphic Systems (ICONS), and serving as a scientific committee member of the Capocaccia neuromorphic intelligence workshop. She has also co-organized the Women in Circuits and Systems (WiCAS) event at the IEEE ICECS conference, and has served as the guest editor of Frontiers in Neuroscience and IOP journal of neuromorphic computing and engineering. She is the winner of the best neuromorph award of the 2019 Telluride neuromorphic workshop. |
+
+
 ## Damien Querlioz
 
 | <img src="/speakers_pictures/damien.jpg" alt="Damien Querlioz" height="250px" /> |
@@ -26,18 +36,6 @@
 
 | **Affiliation** | [NVIDIA](https://research.nvidia.com/person/alex-keller) |
 | **Biography** | Alexander Keller is a director of research at NVIDIA, leading advanced rendering research. Before, he had been the Chief Scientist of mental images, where he had been responsible for research and the conception of future products and strategies including the design of the iray renderer. Prior to industry, he worked as a full professor for computer graphics and scientific computing at Ulm University, where he co-founded the UZWR (Ulmer Zentrum für wissenschaftliches Rechnen) and received an award for excellence in teaching. Alexander Keller holds a Ph.D. in computer science, authored more than 25 granted patents, and published more than 50 papers mainly in the area of quasi-Monte Carlo methods, photorealistic image synthesis using ray tracing, and machine learning.|
-
-
-
-## Melika Payvand
-
-| <img src="/speakers_pictures/Melika.jpeg" alt="Melika Payvand" height="250px" /> |
-| **Brain-inspired hardware and algorithm co-design for low power online training on the edge** |
-| Our digital society is shifting to an era of pervasive and specialized edge-computing systems. Deep learning (DL) is supporting this revolution by enabling unprecedented performances for a wide range of pattern classification and regression applications. However, the conventional Von Neumann hardware architecture and training algorithms are not the most optimally suited for the low-power and real-time requirements of edge-computing devices. Event-based neuromorphic technologies aim to overcome this problem by removing the computational abstractions and better exploiting the physics of the substrate while running online algorithms that require spatially and temporally local weight updates. In this talk, I will introduce a co-design approach between recent event-based algorithms, scalable emerging memory devices, and circuits that together holistically fulfill these requirements. Specifically, I will share our recent works that exploit memristive devices intrinsic properties to implement event-driven gradient-based quantization-aware local learning on-chip. We will cover methods to increase the bit-resolution of memristive devices, implement scalable eligibility traces on hardware for solving temporal credit assignment, derive local error-based learning rules, and more. We will discuss some applications of these technologies for real-time sensory processing, such as gesture recognition, pattern generation, and biomedical signal processing. |
-
-| **Affiliation** | [University of Zurich and ETH Zurich](https://services.ini.uzh.ch/people/melika) |
-| **Biography** |  Melika Payvand is a senior research scientist at the Institute of Neuroinformatics, University of Zurich and ETH Zurich. She received her M.S. and Ph.D. degrees in electrical and computer engineering from the University of California Santa Barbara in 2012 and 2016 respectively. Her research interest is in understanding the organizing principles of biological nervous systems and employing them in building more efficient and intelligent artificial systems, following a co-design approach across devices, circuits and algorithms. She is an active member of the neuromorphic community, co coordinating the European NEUROTECH project, chairing the neuromorphic engineering track at the IEEE ISCAS conference, co-chairing the International Conference on Neuromorphic Systems (ICONS), and serving as a scientific committee member of the Capocaccia neuromorphic intelligence workshop. She has also co-organized the Women in Circuits and Systems (WiCAS) event at the IEEE ICECS conference, and has served as the guest editor of Frontiers in Neuroscience and IOP journal of neuromorphic computing and engineering. She is the winner of the best neuromorph award of the 2019 Telluride neuromorphic workshop. |
-
 
 
 ## Tien-Ju Yang

@@ -1,9 +1,9 @@
 
 # Speakers
 
+- [Melika Payvand](#melika-payvand)
 - [Damien Querlioz](#damien-querlioz)
 - [Alexander Keller](#alexander-keller)
-- [Melika Payvand](#melika-payvand)
 - [Fabien Cardinaux](#fabien-cardinaux)
 - [Tien-Ju Yang](#tien-ju-yang)
 - [Jian Tang](#jian-tang)

@@ -1,21 +1,12 @@
 
 # Speakers
 
-- [Jian Tang](#jian-tang)
 - [Damien Querlioz](#damien-querlioz)
 - [Alexander Keller](#alexander-keller)
 - [Melika Payvand](#melika-payvand)
 - [Fabien Cardinaux](#fabien-cardinaux)
 - [Tien-Ju Yang](#tien-ju-yang)
-
-## Jian Tang
-
-| <img src="/speakers_pictures/Jian.jpg" alt="Jian Tang" height="250px" /> |
-| **Geometric Deep Learning for Drug Discovery** |
-| Drug discovery is a very long and expensive process, taking on average more than 10 years and costing 2.5B to develop a new drug. Artificial intelligence has the potential to significantly accelerate the process of drug discovery by extracting evidence from a huge amount of biomedical data and hence revolutionizes the entire pharmaceutical industry. In particular, graph representation learning and geometric deep learning--a fast growing topic in the machine learning and data mining community focusing on deep learning for graph-structured and 3D data---has seen great opportunities for drug discovery as many data in the domain are represented as graphs or 3D structures (e.g. molecules, proteins, biomedical knowledge graphs). In this talk, I will introduce our recent progress on geometric deep learning for drug discovery and also a newly released open-source machine learning platform for drug discovery, called TorchDrug. |
-
-| **Affiliation** | [Mila and HEC Montreal](https://jian-tang.com/) |
-| **Biography** | Jian Tang is currently an assistant professor at Mila-Quebec AI Institute and also at the Computer Science Department and Business School of University of Montreal.  He is a Canada CIFAR AI Research Chair. His main research interests are graph representation learning, graph neural networks, geometric deep learning, deep generative models, knowledge graphs and drug discovery. During his PhD, he was awarded with the best paper in ICML2014; in 2016, he was nominated for the best paper award in the top data mining conference World Wide Web (WWW); in 2020, he is awarded with Amazon and Tencent Faculty Research Award. He is one of the most representative researchers in the growing field of graph representation learning and has published a set of representative works in this field such as LINE and RotatE. His work LINE on node representation learning has been widely recognized and is the most cited paper at the WWW conference between 2015 and 2019.  Recently, his group just released an open-source machine learning package, called TorchDrug, aiming at  making AI drug discovery software and libraries freely available to the research community. He is an area chair of ICML and NeurIPS. | 
+- [Jian Tang](#jian-tang)
 
 
 ## Damien Querlioz
@@ -67,3 +58,13 @@
 
 | **Affiliation** | [Sony]() |
 | **Biography** | Fabien Cardinaux is leading a R&D team at the Sony R&D Center Europe in Stuttgart (Germany). Prior to joining Sony in 2011, he has worked as a Postdoc at the University of the Sheffield (UK). In 2005, he obtained a PhD from EPFL (Switzerland) for his work on machine learning methods applied to face authentication. His current research interests lie in deep neural network footprint reduction, neural architecture search and audio content representation. |
+
+
+## Jian Tang
+
+| <img src="/speakers_pictures/Jian.jpg" alt="Jian Tang" height="250px" /> |
+| **Geometric Deep Learning for Drug Discovery** |
+| Drug discovery is a very long and expensive process, taking on average more than 10 years and costing 2.5B to develop a new drug. Artificial intelligence has the potential to significantly accelerate the process of drug discovery by extracting evidence from a huge amount of biomedical data and hence revolutionizes the entire pharmaceutical industry. In particular, graph representation learning and geometric deep learning--a fast growing topic in the machine learning and data mining community focusing on deep learning for graph-structured and 3D data---has seen great opportunities for drug discovery as many data in the domain are represented as graphs or 3D structures (e.g. molecules, proteins, biomedical knowledge graphs). In this talk, I will introduce our recent progress on geometric deep learning for drug discovery and also a newly released open-source machine learning platform for drug discovery, called TorchDrug. |
+
+| **Affiliation** | [Mila and HEC Montreal](https://jian-tang.com/) |
+| **Biography** | Jian Tang is currently an assistant professor at Mila-Quebec AI Institute and also at the Computer Science Department and Business School of University of Montreal.  He is a Canada CIFAR AI Research Chair. His main research interests are graph representation learning, graph neural networks, geometric deep learning, deep generative models, knowledge graphs and drug discovery. During his PhD, he was awarded with the best paper in ICML2014; in 2016, he was nominated for the best paper award in the top data mining conference World Wide Web (WWW); in 2020, he is awarded with Amazon and Tencent Faculty Research Award. He is one of the most representative researchers in the growing field of graph representation learning and has published a set of representative works in this field such as LINE and RotatE. His work LINE on node representation learning has been widely recognized and is the most cited paper at the WWW conference between 2015 and 2019.  Recently, his group just released an open-source machine learning package, called TorchDrug, aiming at  making AI drug discovery software and libraries freely available to the research community. He is an area chair of ICML and NeurIPS. | 

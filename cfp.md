@@ -14,6 +14,8 @@ The authors have to follow the instructions listed below when submitting their c
 - Papers that have been accepted in the main ICML conference cannot be submitted to the workshop.  
 - Manuscripts should be submitted using the [CMT](https://cmt3.research.microsoft.com/HAET2022) system. 
 
+Accepted papers will be made available on the workshop website, but no proceedings will be published.
+
 # Scope and Topics
 
 The workshop welcomes contributions that seek to reduce the cost of the training process based on high-level complexity metrics (number of operations, memory usage) or by taking into account the details of the computing hardware (CPU, GPU, IPU, NPU, or any other custom accelerator implemented as an ASIC or on FPGA). Topics of interest include (but are not limited to):

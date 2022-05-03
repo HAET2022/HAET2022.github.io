@@ -14,7 +14,7 @@ The authors have to follow the instructions listed below when submitting their c
 - Papers that have been accepted in the main ICML conference cannot be submitted to the workshop.  
 - Manuscripts should be submitted using the [CMT](https://cmt3.research.microsoft.com/HAET2022) system. 
 
-Accepted papers will be made available on the workshop website, but no proceedings will be published.
+We encourage all authors to also submit their work to arXiv. The workshop will have proceedings with copyright attributed to the authors. However, the inclusion of accepted papers in the workshop proceedings is optional.
 
 # Scope and Topics
 

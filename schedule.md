@@ -1,8 +1,7 @@
 
 # Schedule
 
-Please note that all provided slots are in Coordinated Universal Time-4 (UTC−4), and use a 24h format. You may use [this time zone converter](https://www.thetimezoneconverter.com) to convert these times to your local time zone.
-
+Please note that all provided slots are in Eastern Daylight Time (EDT), and use a 24h format. The workshop will be held in person on Saturday, July 23rd, 2022 at the Baltimore Convention Center.
 
 
 | **Time (GMT+2)**                                          | **Event**                   |

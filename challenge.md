@@ -14,7 +14,7 @@ To participate, the candidates must send a pdf describing their method with thei
 
 # Details and Important Dates
 
-During the trial phase, participants can download all needed code from [here](https://github.com/eghouti/HAET-2021-competition-baseline-code). For this phase, contestants can use the provided code with CIFAR10 dataset and should try to achieve the best possible accuracy using limited training time. 
+During the trial phase, participants can download all needed code from [here](https://github.com/eghouti/HAET-2022-competition-baseline-code). For this phase, contestants can use the provided code with CIFAR10 dataset and should try to achieve the best possible accuracy using limited training time. 
 
 Once the participants have their submission ready, they can submit it using the [CMT](https://cmt3.research.microsoft.com/HAET2022) link and choose "Competition" as a category. Before the workshop, submissions will be evaluated using a different dataset (unknown to the participants). The submissions will be evaluated by running the code for a duration of 10 minutes. The evaluation consists in classifying 10 classes with inputs made of 32 by 32 RGB images. 500 inputs per class are available during training and 100 per class for test. Note that during the evaluation, we consider data pre-processing, network architecture, and the way the network is trained (optimizer, learning rate... etc) the participant will provide, and we only change the input training and test dataset.
 
@@ -27,9 +27,11 @@ Methods will be ranked according to the accuracy they achieve after 10 minutes o
 # Dates
 
 - Competition submission deadline: 30 May 2022 (11:59 pm UTC-11).
+- Evaluations will be performed by: 10 June 2022 (11:59 pm UTC-11).
+- Workshop: 23 Jully 2022.
 
 
 
 
 
-You may contact us at ghouthi.bouklihacene@gmail.fr\bouklihg@mila.quebec if you need further details.
+You may contact us at ghouthi.bouklihacene@sony.com\bouklihg@mila.quebec if you need further details.

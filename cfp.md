@@ -1,8 +1,8 @@
 # Important Dates 
 
-- Paper submission deadline: <s>20 May 2022</s> 30 May 2022 (11:59 pm UTC-11).
+- Paper submission deadline: <s>20 May 2022</s> 30 May 2022 (11:59 pm PT).
 - Acceptance notification: 13 June 2022.
-- Camera-ready deadline: 30 June 2022 (11:59 pm UTC-11).
+- Camera-ready deadline: 30 June 2022 (11:59 pm PT).
 - Workshop: 23 Jully 2022.
 
 # Author Instructions

@@ -14,6 +14,7 @@ Please note that all provided slots are in Eastern Daylight Time (EDT), and use 
 | <span style="font-family: monospace;">13:00 13:30</span> | Keynote 4: [Fabien Cardinaux](/speakers#fabien-cardinaux). <br /> **Title: DNN Quantization with Mixed Precision and Trained Lookup Tables**|
 | <span style="font-family: monospace;">13:30 14:00</span> | Keynote 5: [Tien-Ju Yang](/speakers#tien-ju-yang). <br /> **Title: Neural Network Design and Training for Efficient On-Device Learning**|
 | <span style="font-family: monospace;">14:00 14:30</span> | Keynote 6: [Jian Tang](/speakers#jian-tang). <br /> **Title: Neural Bellman-Ford Networks: An Efficient and General Path-based Method for Link Prediction based on GNNs**|
-| <span style="font-family: monospace;">14:30 16:00</span> |Poster session II: open discussion and coffee break.|
-| <span style="font-family: monospace;">16:00 17:00</span> | Panel discussion.|
-| <span style="font-family: monospace;">17:00 17:30</span> | Announcement  of  the  different  award  winners and closing remarks.|
+| <span style="font-family: monospace;">14:30 14:45</span> | Best paper awward presentation. <br />|
+| <span style="font-family: monospace;">14:45 16:15</span> | Poster session II: open discussion and coffee break.|
+| <span style="font-family: monospace;">16:15 17:00</span> | Panel discussion.|
+| <span style="font-family: monospace;">17:00 17:10</span> | Closing remarks.|

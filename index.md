@@ -9,6 +9,6 @@ Checkout the <a href="https://haet2021.github.io/">previous workshop edition</a>
 
 ## Our Sponsors
 
-|<img src="/logo_pictures/1200px-Huawei_Standard_logo.svg.png" alt="" width="150"/>|<img src="/logo_pictures/deeplite-01.png" alt="" width="200"/>|<img src="/logo_pictures/thales.png" alt="" width="230"/>|
+|<img src="/logo_pictures/deeplite-01.png" alt="" width="280"/>|<img src="/logo_pictures/1200px-Huawei_Standard_logo.svg.png" alt="" width="230"/>|
 
 |<img src="/logo_pictures/stellantis.png" alt="" width="280"/>|<img src="/logo_pictures/nvidia.png" alt="" width="230"/>|

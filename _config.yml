@@ -7,7 +7,7 @@ navigation:
   CfP: "/cfp"
   Keynotes: "/speakers"
   Organizers: "/organisers"
-  Scheduleeee: "/schedule"
+  Schedule: "/schedule"
   
   
 markdown: kramdown

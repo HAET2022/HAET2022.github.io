@@ -23,6 +23,9 @@
 **Efficient Fine-Tuning of Compressed Language Models with Learners**
 <br />Danilo Vucetic; Mohammadreza Tayaranian; Maryam Ziaeefard; James J. Clark; Brett H Meyer; Warren Gross<br />
 <abstract>Fine-tuning BERT-based models is resource-intensive in memory, computation, and time. While many prior works aim to improve inference efficiency via compression techniques, e.g., pruning, these works do not explicitly address the computational challenges of training to downstream tasks. We introduce the Learner module, a novel method for fine-tuning that exploits the overparameterization of pre-trained language models to gain benefits in convergence speed and resource utilization. Learner modules navigate the double bind of 1) training efficiently by fine-tuning a subset of parameters, and 2) training effectively by ensuring quick convergence and high metric scores. Our results on DistilBERT demonstrate that learners perform on par with or surpass the baselines. Learners train 7x fewer parameters than state-of-the-art methods on GLUE. On CoLA, learners fine-tune 20% faster, and have significantly lower resource utilization.</abstract>
+[PDF](https://www.dropbox.com/s/971yizhaitkoaxk/Learners_icml2022.pdf?dl=0) &bull;
+[Poster](https://www.dropbox.com/s/ulohbzpxdcdqzcc/ICML_HAET22_Poster_Danilo.pdf?dl=0) &bull;
+[Presentation](https://youtu.be/ehvsn53Rxlw)
 
 
 **Cut Inner Layers: A Structured Pruning Strategy for Efficient U-Net GANs**
@@ -60,15 +63,15 @@
 **Low-Bit DNN Training with Hardware-Efficient Stochastic Rounding Unit Design**
 <br />Sung-En Chang; Geng Yuan; Alec Lu; Mengshu Sun; Yanyu Li; Xiaolong Ma; Yanyue Xie; Minghai Qin; Xue Lin; Zhenman Fang; Yanzhi Wang<br />
 <abstract>Stochastic rounding is crucial in the training of low-bit deep neural networks (DNNs) to achieve high accuracy. Unfortunately, prior studies require a large number of high-precision stochastic rounding units (SRUs) to guarantee the low-bit DNN accuracy, which involves considerable hardware overhead. In this paper, we propose an automated framework to explore hardware-efficient low-bit SRUs (ESRUs) that can still generate high-quality random numbers to guarantee the accuracy of low-bit DNN training. Experimental results using state-of-the-art DNN models demonstrate that, compared to the prior 24-bit SRU with 24-bit pseudo random number generator (PRNG), our 8-bit ESRU~with 3-bit PRNG reduces the SRU resource usage by $9.75\times$ while achieving a higher accuracy.</abstract>
-
-
+[PDF](https://www.dropbox.com/s/gk7tx169tcvcsbj/HAET2022_lowbittraining.pdf?dl=0) &bull;
+[Poster](https://www.dropbox.com/s/fb3xexi94o8xtgp/HAET2022_lowbittraining_poster.pdf?dl=0) &bull;
 [Presentation](https://youtu.be/BFjd4z3j-3s)
 
 
 **Investigating the Not-So-Obvious Effects of Structured Pruning**
 <br />Hugo Tessier; Vincent Gripon; Mathieu Léonardon; matthieu Arzel; David Bertrand; Thomas Hannagan<br />
 <abstract>Structured pruning is a popular method to reduce the cost of convolutional neural networks. However, depending on the architecture, pruning introduces dimensional discrepancies which prevent the actual reduction of pruned networks and mask their true complexity. Most papers in the literature overlook these issues. We propose a method that systematically solves them and generate an operational network. We show through experiments the gap between the theoretical pruning ratio and the actual complexity revealed by our method.</abstract>
-
+[PDF](https://www.dropbox.com/s/vg89hgnmjvyvcjq/ICML_2022.pdf?dl=0) &bull;
 [Poster](https://www.dropbox.com/s/12sashs4hngtfvp/Poster_ICML.pdf?dl=0) &bull;
 [Presentation](https://youtu.be/Ru9GtII3kfI)
 

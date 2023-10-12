@@ -47,7 +47,9 @@
 [Presentation](https://youtu.be/1CFBOfJsOKA)
 
 
-
+**MobileTL: On-device Transfer Learning with Inverted Residual Blocks**
+<br />Hung-Yueh Chiang; Natalia Frumkin; Feng Liang; Diana Marculescu<br />
+<abstract>We present MobileTL, a memory and computationally efficient on-device transfer learning method for models built with Inverted Residual blocks (IRBs). An IRB splits a full convolution into depthwise and pointwise convolutions, leading to more stacking layers. Though they are efficient for inference, IRBs require additional activation maps stored in memory during back-propagation. To address this issue, MobileTL only updates the bias for internal normalization layers to avoid storing activation maps. Additionally, MobileTL approximates memory-intensive activation layers (e.g., Hard-Swish and ReLU6) as a signed function thereby enabling the use of a binary mask during the backward pass. MobileTL only fine-tunes a few high-level task-specific blocks to reduce the computation cost rather than propagating the gradient through the whole network. Our method reduces training memory usage by 46 % and 53 % for MobileNetV2 and V3 IRBs respectively. For MobileNetV3, we find a 36 % reduction of the floating-point operations when fine-tuning 5 blocks, while only incurring a 0.6 % accuracy reduction in CIFAR10. Extensive experiments on multiple datasets illustrate that our method is Pareto-optimal under given hardware constraints when compared to prior work. Code will be available at: https://github.com/enyac-group.</abstract>
 
 
 **Low-Bit DNN Training with Hardware-Efficient Stochastic Rounding Unit Design**
